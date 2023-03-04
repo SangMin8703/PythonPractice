@@ -33,6 +33,4 @@ z
 예제 출력 6 
 122
 """
-
-str = input()
-print(str)
+print(ord(input()))
