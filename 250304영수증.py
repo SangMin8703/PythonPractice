@@ -54,4 +54,3 @@ if(X == sumPrice):
     print("Yes")
 else:
     print("No")
-    
