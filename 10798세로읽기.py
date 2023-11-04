@@ -44,3 +44,14 @@ P5h3kx
 예제 출력 2 
 Aa0aPAf985Bz1EhCz2W3D1gkD6x
 '''
+
+words = [list(input()) for _ in range(5)]
+
+for i in range(15):
+    for j in range(5):
+        if i < len(words[j]):
+            print(words[j][i], end='')
+
+
+
+    
